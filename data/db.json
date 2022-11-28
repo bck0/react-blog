@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Moje nova stranka",
+      "body": "lorem ipsum..",
+      "author": "Erik",
+      "id": 1
+    },
+    {
+      "title": "Tipy  a triky",
+      "body": "lorem ipsum..",
+      "author": "Jirka",
+      "id": 2
+    },
+    {
+      "title": "Jak na vyvoj",
+      "body": "lorem ipsum..",
+      "author": "Erik",
+      "id": 3
+    }
+  ]
+}
